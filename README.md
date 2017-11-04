@@ -7,7 +7,4 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 ## Contributors
 + Alex Pearson
-+ Shawon Roberts(King)
-+ Tania Pappas
-+ Meg Shelley
-+ _Menkahre Rawlins_
++ Dave Harned

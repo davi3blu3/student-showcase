@@ -1,28 +1,30 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 img {
   width: 100%;
 }
 
-#alex {
-  background-color: lightgrey;
-  border-radius: 10px;
-  padding: 20px;
+.dave {
+  background-color: darkcyan;
+  border-radius: 15px;
+  padding: 15px;
 }
 
-#alex img {
-  border-radius: 10px;
+.dave img {
   margin-bottom: 10px;
 }
 
-.megquote {
-  border-radius: 10px;
-  font-size: 18px;
-  color: blue;
-}
-.megcontact {
-  font-size: 16px;
-  color: orange;
+.dave h2, a {
+  color: white;
 }
 
-#Shawon{
-    background-color:lightgreen;
+.dave a {
+  font-size: 1.2em;
+}
+
+.dave a:hover {
+  text-decoration: none;
+  color: aqua;
 }
