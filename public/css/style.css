@@ -16,8 +16,16 @@ img {
   margin-bottom: 10px;
 }
 
-.dave h2, a {
+.dave h2, p, a {
   color: white;
+}
+
+.dave blockquote {
+  margin-bottom: 2px;
+}
+
+.dave .cite {
+  padding-left: 11px;
 }
 
 .dave a {
