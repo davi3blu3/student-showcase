@@ -28,3 +28,21 @@ img {
   text-decoration: none;
   color: aqua;
 }
+.casey {
+  background-color: slategray;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.casey img {
+  margin-bottom: 10px;
+}
+
+.casey h2, a {
+  color: blue;
+}
+
+.casey ul{
+  font-size: 1.2em
+  color: white;
+}
