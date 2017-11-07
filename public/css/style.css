@@ -51,7 +51,6 @@ background-color: #131313;
 background-size: 20px 20px;
   border-radius: 15px;
   padding: 15px;
-  height: 540px;
 }
 
 .dillan img {
@@ -95,3 +94,8 @@ background-size: 20px 20px;
 
 .caseyh {
   background-color: slategray;
+}
+
+.flexxy {
+  display: flex;
+}
