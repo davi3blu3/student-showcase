@@ -38,11 +38,11 @@ img {
   margin-bottom: 10px;
 }
 
-.casey h2, a {
-  color: blue;
+.casey a {
+  color: Black;
 }
 
 .casey ul{
-  font-size: 1.2em
+  font-size: 1.2em;
   color: white;
 }
